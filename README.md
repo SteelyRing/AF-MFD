@@ -21,6 +21,6 @@ After installing the dependency:
     conda install -c conda-forge opencv
 ```
 
-### Data
+### Data and Training Model Weights
 
-use data file http://
+use data or weights :file path:   https://mega.nz/folder/PMEGFaQZ#H4MNmOO1ls9uX-W-zNNCJg
