@@ -2,7 +2,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 from networks.sync_batchnorm.batchnorm import SynchronizedBatchNorm2d
-from networks.aspp import build_aspp
+from networks.aspp import build_aspp 
 from networks.decoder import build_decoder
 from networks.backbone import build_backbone
 
