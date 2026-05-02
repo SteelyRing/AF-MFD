@@ -5,7 +5,7 @@ import torch.nn.functional as F
 import torch
 
 
-class LearnableSigmoid(nn.Module):
+class LearnableSigmoid(nn.Module): 
     def __init__(self, ):
         super(LearnableSigmoid, self).__init__()
         self.weight = torch.nn.Parameter(torch.FloatTensor(1), requires_grad=True)
