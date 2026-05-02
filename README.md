@@ -1,7 +1,6 @@
 # pytorch{AF-MFD}
 
-Code for paper 'Dual Model based Adaptive Fusion of Multi-Feature Distributions in
-Semi-Supervised Image Segmentation’
+Code for paper 'Fusing Multi-Feature Distributions Adaptively with Dual Method for Semi-Supervised Image Segmentation’
 
 ### Introduction
 The code was tested with Anaconda and Python 3.7.1.
@@ -23,4 +22,4 @@ After installing the dependency:
 
 ### Data and Training Model Weights
 
-use data or weights :file path:   https://mega.nz/folder/PMEGFaQZ#H4MNmOO1ls9uX-W-zNNCJg
+use data or weights :file path: https://mega.nz/folder/PMEGFaQZ#H4MNmOO1ls9uX-W-zNNCJg
