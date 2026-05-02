@@ -1,5 +1,5 @@
 import torch
-import torch.nn.functional as F
+import torch.nn.functional as F 
 import torch.nn as nn
 import math
 from networks.sync_batchnorm.batchnorm import SynchronizedBatchNorm2d
